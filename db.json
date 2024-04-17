@@ -1,14 +1,192 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "CLP_Electronics": [
+    {
+      "carouselAdKeys": [
+        {
+          "id": "CLP_Electronics_Carousel_Card1_PWA",
+          "key": "6bedcbd2",
+          "homepage": "ELECTRONICS"
+        },
+        {
+          "id": "CLP_Electronics_Carousel_Card2_PWA",
+          "key": "391c20b5",
+          "homepage": "ELECTRONICS"
+        },
+        {
+          "id": "CLP_Electronics_Carousel_Card3_PWA",
+          "key": "4e1b1023",
+          "homepage": "ELECTRONICS"
+        },
+        {
+          "id": "CLP_Electronics_Carousel_Card4_PWA",
+          "key": "55469f3b",
+          "homepage": "ELECTRONICS"
+        },
+        {
+          "id": "CLP_Electronics_Carousel_Card5_PWA",
+          "key": "cc4fce81",
+          "homepage": "ELECTRONICS"
+        }
+      ],
+      "heroAdKey": [
+        {
+          "id": "CLP_Electronics_HeroBanner_PWA",
+          "key": "acca1bf2",
+          "homepage": "ELECTRONICS"
+        }
+      ]
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "CLP_Cards": [
+    {
+      "carouselAdKeys": [
+        {
+          "id": "CLP_Cards_Carousel_Card1_PWA",
+          "key": "4976d43a",
+          "homepage": "CARDS"
+        },
+        {
+          "id": "CLP_Cards_Carousel_Card2_PWA",
+          "key": "d07f8580",
+          "homepage": "CARDS"
+        },
+        {
+          "id": "CLP_Cards_Carousel_Card3_PWA",
+          "key": "a778b516",
+          "homepage": "CARDS"
+        },
+        {
+          "id": "CLP_Cards_Carousel_Card4_PWA",
+          "key": "522b5b22",
+          "homepage": "CARDS"
+        },
+        {
+          "id": "CLP_Cards_Carousel_Card5_PWA",
+          "key": "cb220a98",
+          "homepage": "CARDS"
+        }
+      ],
+      "heroAdKey": [
+        {
+          "id": "CLP_Cards_HeroBanner_PWA",
+          "key": "3c750663",
+          "homepage": "CARDS"
+        }
+      ]
+    }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "CLP_Lifestyle": [
+    {
+      "carouselAdKeys": [
+        {
+          "id": "CLP_Lifestyle_Carousel_Card1_PWA",
+          "key": "d7124199",
+          "homepage": "Lifestyle"
+        },
+        {
+          "id": "CLP_Lifestyle_Carousel_Card2_PWA",
+          "key": "a015710f",
+          "homepage": "Lifestyle"
+        },
+        {
+          "id": "CLP_Lifestyle_Carousel_Card3_PWA",
+          "key": "3e71e4ac",
+          "homepage": "Lifestyle"
+        },
+        {
+          "id": "CLP_Lifestyle_Carousel_Card4_PWA",
+          "key": "bb48fe17",
+          "homepage": "Lifestyle"
+        },
+        {
+          "id": "CLP_Lifestyle_Carousel_Card5_PWA",
+          "key": "252c6bb4",
+          "homepage": "Lifestyle"
+        }
+      ],
+      "heroAdKey": [
+        {
+          "id": "CLP_Lifestyle_HeroBanner_PWA",
+          "key": "dbcd2b64",
+          "homepage": "Lifestyle"
+        }
+      ]
+    }
+  ],
+  "CLP_Loans": [
+    {
+      "carouselAdKeys": [
+        {
+          "id": "CLP_Loan_Carousel_Card1_PWA",
+          "key": "fb52d643",
+          "homepage": "Loans"
+        },
+        {
+          "id": "CLP_Loan_Carousel_Card2_PWA",
+          "key": "8c55e6d5",
+          "homepage": "Loans"
+        },
+        {
+          "id": "CLP_Loan_Carousel_Card3_PWA",
+          "key": "1ceafb44",
+          "homepage": "Loans"
+        },
+        {
+          "id": "CLP_Loan_Carousel_Card4_PWA",
+          "key": "V42862648",
+          "homepage": "Loans"
+        },
+        {
+          "id": "CLP_Loan_Carousel_Card5_PWA",
+          "key": "2241afad",
+          "homepage": "Loans"
+        }
+      ],
+      "heroAdKey": [
+        {
+          "id": "CLP_Loan_HeroBanner_PWA",
+          "key": "c2d61a25",
+          "homepage": "Loans"
+        }
+      ]
+    }
+  ],
+  "CLP_2Wheeler": [
+    {
+      "carouselAdKeys": [
+        {
+          "id": "CLP_2Wheeler_Carousel_Card1_PWA",
+          "key": "370620f9",
+          "homepage": "Two_Wheelers"
+        },
+        {
+          "id": "CLP_2Wheeler_Carousel_Card2_PWA",
+          "key": "d0be0dfe",
+          "homepage": "Two_Wheelers"
+        },
+        {
+          "id": "CLP_2Wheeler_Carousel_Card3_PWA",
+          "key": "a7b93d68",
+          "homepage": "Two_Wheelers"
+        },
+        {
+          "id": "CLP_2Wheeler_Carousel_Card4_PWA",
+          "key": "a53e0b4f",
+          "homepage": "Two_Wheelers"
+        },
+        {
+          "id": "CLP_2Wheeler_Carousel_Card5_PWA",
+          "key": "358116de",
+          "homepage": "Two_Wheelers"
+        }
+      ],
+      "heroAdKey": [
+        {
+          "id": "CLP_2Wheeler_HeroBanner_PWA",
+          "key": "bea20c29",
+          "homepage": "Two_Wheelers"
+        }
+      ]
+    }
+  ]
 }
